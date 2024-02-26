@@ -49,19 +49,19 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
+    imgUrl: '/planet-06.jpg',
     title: 'Martina Margarita Ramírez Gamboa',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
-    imgUrl: '/planet-07.png',
+    imgUrl: '/planet-07.jpg',
     title: 'Gabriela Valeria Carrillo González',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
-    imgUrl: '/planet-08.png',
+    imgUrl: '/planet-08.jpg',
     title: 'Daniela Alejandra Castrejón Durán',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',

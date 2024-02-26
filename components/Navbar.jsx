@@ -21,8 +21,8 @@ const Navbar = () => (
         alt="search"
         className="w-[24px] h-[24px] object-contain"
       />
-      <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
-        METAVERSUS
+      <h2 className="font-extrabold text-[24px] leading-[30.24px] bg-gradient-to-r from-purple-500 to-pink-500 text-transparent bg-clip-text">
+        COVID19 | BEDU
       </h2>
       <img
         src="/menu.svg"

@@ -21,17 +21,16 @@ const Feedback = () => (
         <div className="feedback-gradient" />
         <div>
           <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] bg-gradient-to-r from-purple-500 to-pink-500 text-transparent bg-clip-text">
-            Samantha
+            Sitio Web Creado por:
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-black">
-            Founder Metaverus
+            Karen Rebeca Ortíz González
           </p>
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-secondary-black">
-          “With the development of today's technology, metaverse is very
-          useful for today's work, or can be called web 3.0. by using
-          metaverse you can use it as anything”
+          "Este sitio cuenta con tecnologías de desarrollo web como Next.js, React.js, Tailwind CSS, Framer Motion y más.
+          Es un proyecto de las alumnas de BEDU, en el cual se busca mostrar el aprendizaje obtenido en el curso de Data Science."
         </p>
       </motion.div>
 
